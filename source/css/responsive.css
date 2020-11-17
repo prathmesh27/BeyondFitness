@@ -1,0 +1,391 @@
+@media (max-width:1200px){
+nav ul li a {
+    font-size: 13px;
+    padding: 0 3px;
+}
+.service-boxes{
+	margin-top: -40px;
+}
+.service-boxes .row > div {
+    width: 50%;
+    float: left;
+}
+.member-image > p{
+	padding: 40px 20px 20px;
+}
+.course-desc {
+    padding: 15px 60px;
+}
+.testimonial-detail {
+    margin-top: 20px;
+}
+.testimonial-detail > h3 {
+    font-size: 30px;
+    line-height: 40px;
+}
+}
+
+
+
+
+@media (min-width:768px) and (max-width:980px){
+header {
+    background:none repeat scroll 0 0 rgba(0, 0, 0, 0.9);
+}
+.logo {
+    width: 100%;
+    padding: 10px 0;
+    text-align: center;
+}
+.logo > a {
+    float: none;
+    display: block;
+}
+nav {
+	display: none;
+    background:none repeat scroll 0 0 rgba(0, 0, 0, 0.9);
+    padding: 15px 10px;
+    position: absolute;
+    right: 0;
+    top: 100%;
+    width: 380px;
+}
+header.sticky nav{
+	padding-top: 15px;
+}
+nav ul li {
+    border-bottom: 1px solid #2f2f2f;
+    margin: 0;
+    padding: 3px 0;
+    width: 50%;
+}
+header > span {
+    width: 50px;
+    height: 50px;
+    position: absolute;
+    right: 30px;
+    top: 50%;
+    margin-top: -25px;
+    text-align: center;
+    line-height: 50px;
+    background: rgba(255,255,255,0.9);
+    font-size: 24px;
+    border: 1px solid #FFFFFF;
+    cursor: pointer;
+    display: block;
+
+    -webkit-border-radius: 3px;
+    -moz-border-radius: 3px;
+    -ms-border-radius: 3px;
+    -o-border-radius: 3px;
+    border-radius: 3px;
+}
+.page-top header nav ul li a {
+    font-size: 13px;
+    padding: 5px 15px;
+    width: 100%;
+}
+
+.column {
+    float: left;
+    width: 100%;
+    margin-bottom: 50px;
+}
+.column:last-child{
+	margin: 0;
+}
+.parallax-text > p {
+    padding: 0 50px;
+}
+.calculators-set {
+    margin: 0;
+    overflow: hidden;
+
+    -webkit-border-radius: 3px;
+    -moz-border-radius: 3px;
+    -ms-border-radius: 3px;
+    -o-border-radius: 3px;
+    border-radius: 3px;
+}
+.calculator .row > div {
+    float: left;
+    width: 100%;
+}
+.factors .row > div {
+    float: left;
+    width: 33.33%;
+}
+.testimonial-detail{
+	margin-bottom: 50px;
+}
+.contact form.row > div {
+    width: 100%;
+    float: left;
+}
+.classes-page .row > div {
+    float: left;
+    width: 50%;
+}
+.error-page > h1{
+	font-size: 100px;
+}
+.error-page h1 strong, .error-page h1 i {
+    float: left;
+    font-size: 20px;
+    text-align: center;
+    width: 100%;
+}
+.error-page h3 {
+    font-size: 17px;
+}
+.error-page > p {
+    font-size: 12px;
+}
+.error-page > h5 {
+    font-size: 15px;
+}
+.error-page ul li {
+    font-size: 12px;
+}
+iframe{
+    height: auto;
+}
+.kenburns-text > h2{
+    font-size: 80px;
+}
+.kenburns-text{
+    width: 530px;
+    margin-left: -265px;
+}
+.kenburns-text > h2 span{
+    font-size: 15px;
+}
+}
+
+
+
+@media (max-width:767px){
+header {	
+    background:none repeat scroll 0 0 rgba(0, 0, 0, 0.9);
+}
+.logo {
+    width: 100%;
+    padding: 10px 0;
+    text-align: left;
+}
+.logo > a {
+    display: block;
+    float: none;
+    padding-left: 20px;
+}
+.page-top header nav ul li a {
+    font-size: 13px;
+    padding: 5px 15px;
+    width: 100%;
+}
+
+nav {
+	display: none;
+    background:none repeat scroll 0 0 rgba(0, 0, 0, 0.9);
+    padding: 15px 10px;
+    position: absolute;
+    right: 0;
+    top: 100%;
+    width: 300px;
+}
+header.sticky nav{
+	padding-top: 15px;
+}
+nav ul li {
+    border-bottom: 1px solid #2f2f2f;
+    margin: 0;
+    padding: 3px 0;
+    width: 50%;
+}
+header > span {
+    width: 50px;
+    height: 50px;
+    position: absolute;
+    right: 30px;
+    top: 50%;
+    margin-top: -25px;
+    text-align: center;
+    line-height: 50px;
+    background: rgba(255,255,255,0.9);
+    font-size: 24px;
+    border: 1px solid #FFFFFF;
+    cursor: pointer;
+    display: block;
+
+    -webkit-border-radius: 3px;
+    -moz-border-radius: 3px;
+    -ms-border-radius: 3px;
+    -o-border-radius: 3px;
+    border-radius: 3px;
+}
+.block .container{
+	padding: 0 15px;
+}
+.column {
+    float: left;
+    width: 100%;
+    margin-bottom: 50px;
+}
+.column:last-child{
+	margin: 0;
+}
+.parallax-text > p {
+    padding: 0 50px;
+}
+.calculators-set {
+    margin: 0;
+    overflow: hidden;
+
+    -webkit-border-radius: 3px;
+    -moz-border-radius: 3px;
+    -ms-border-radius: 3px;
+    -o-border-radius: 3px;
+    border-radius: 3px;
+}
+.calculator .row > div {
+    float: left;
+    width: 100%;
+}
+.factors .row > div {
+    float: left;
+    width: 50%;
+    padding: 0;
+}
+.testimonial-detail{
+	margin-bottom: 50px;
+}
+.contact form.row > div {
+    width: 100%;
+    float: left;
+}
+.service-intro{
+	display: none;
+}
+
+.page-top p{
+	width: 80%;
+}
+.classes-page .row > div {
+    float: left;
+    width: 50%;
+}
+.error-page > h1{
+	font-size: 100px;
+}
+.error-page h1 strong, .error-page h1 i {
+    float: left;
+    font-size: 20px;
+    text-align: center;
+    width: 100%;
+}
+.error-page h3 {
+    font-size: 17px;
+}
+.error-page > p {
+    font-size: 12px;
+}
+.error-page > h5 {
+    font-size: 15px;
+}
+.error-page ul li {
+    font-size: 12px;
+}
+.error-page > form {
+    margin-left: 0;
+    width: 100%;
+}
+.textWrap h1{
+    font-size: 50px;
+}
+iframe{
+    height: auto;
+}
+.text-carousel{
+    min-height: 0;
+}
+.text-slide > span{
+    font-size: 15px;
+    letter-spacing: 0;
+}
+.text-slide > h3{
+    font-size: 40px;
+}
+.kenburns-text > h2{
+    font-size: 40px;
+}
+.kenburns-text{
+    width: 100%;
+    margin-left: 0;
+    left: 0;
+    top: 50%;
+}
+.kenburns-text:before{
+    display: none;
+}
+.kenburns-text > h2 span{
+    font-size: 10px;
+}
+
+}
+
+
+@media (max-width:480px){
+.service-boxes .row > div{
+	width: 100%;
+}
+.parallax-text > p,
+.course-wrapper:nth-child(2n+2) {
+    padding: 0;
+}
+.course{
+	padding: 0;
+}
+.courses:before{
+	display: none;
+}
+.course-img {
+    left: 50%;
+    margin-left: -54px;
+}
+.course-desc:before {
+    left: 50%;
+    margin-left: -41.5px;
+}
+
+.course-desc {
+    padding: 120px 20px 10px 20px;
+}
+.factors .row > div{
+	width: 100%;
+}
+.effect li {
+    height: 76px;
+    margin-bottom: 10px;
+    padding: 5px 5px;
+    width: 86px;
+}
+.contact > p {
+    padding: 0;
+}
+.classes-page .row > div {
+    width: 100%;
+}
+.slider {
+    margin-top: 89px;
+}
+
+.feature {
+    padding-left: 0;
+    padding-top: 180px;
+}
+.feature > span {
+    left: 50%;
+    margin-left: -75px;
+}
+
+}

@@ -1,0 +1,1109 @@
+
+<!DOCTYPE html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<title>BEYOND FITNESS</title>
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta name="description" content="" />
+<meta name="keywords" content="" />
+<!-- http://templates.stillidea.net/champ/ -->
+<!-- Google Fonts -->
+<link href='http://fonts.googleapis.com/css?family=Roboto+Slab:400,100,300,700' rel='stylesheet' type='text/css'>
+<link href='http://fonts.googleapis.com/css?family=Arimo:400,400italic,700,700italic' rel='stylesheet' type='text/css'>
+
+<!-- Styles -->
+<link href="font-awesome/css/font-awesome.min.css" rel="stylesheet" type="text/css" />
+<link href="css/bootstrap.min.css" rel="stylesheet" type="text/css" />
+<link rel="stylesheet" type="text/css" href="css/revolution.css" media="screen" />
+<link rel="stylesheet" href="css/style.css" type="text/css" />
+<link href="css/responsive.css" rel="stylesheet" type="text/css" />
+
+<link rel="stylesheet" type="text/css" href="css/color/red.css" title="red" />
+<link rel="alternate stylesheet" type="text/css" href="css/color/orange.css" title="orange" />
+<link rel="alternate stylesheet" type="text/css" href="css/color/brown.css" title="brown" />
+<link rel="alternate stylesheet" type="text/css" href="css/color/blue.css" title="blue" />
+<link rel="alternate stylesheet" type="text/css" href="css/color/green.css" title="green" />
+<link rel="alternate stylesheet" type="text/css" href="css/color/pink.css" title="pink" />
+
+</head>
+<body>
+<div class="overlay"> 
+<div class="textWrap">
+  <h1>BEYOND FITNESS</h1><h1>BEYOND FITNESS</h1><h1>BEYOND FITNESS</h1><h1>BEYOND FITNESS</h1><h1>BEYOND FITNESS</h1><h1>BEYOND FITNESS</h1><h1>BEYOND FITNESS</h1><h1>BEYOND FITNESS</h1><h1>BEYOND FITNESS</h1><h1>BEYOND FITNESS</h1>
+</div></div>
+
+<header>
+	<span><i class="fa fa-align-justify"></i></span>
+	<div class="container">
+		<div class="logo">
+			<a href="#" title=""><img src="images/logo.png" alt="" /></a>
+		</div>
+		<nav>
+			<ul>
+				<li class="active"><a class="smooth" href="#home" title="">Home</a></li>
+				<li><a class="smooth" href="#service" title="">Services</a></li>
+				<li><a class="smooth" href="#team" title="">Team</a></li>
+				<li><a class="smooth" href="#classes" title="">Classes</a></li>
+				<li><a class="smooth" href="#gallery" title="">Gallery</a></li>
+				<li><a class="smooth" href="#testimonial" title="">Testimonials</a></li>
+				<li><a class="smooth" href="#blog" title="">Blog</a></li>
+				<li><a class="smooth" href="#contact" title="">Contact</a></li>
+			</ul>
+		</nav>
+	</div>
+</header>
+
+
+<div id="home" class="slider">
+	<div class="tp-banner-container">
+		<div class="tp-banner">
+			<ul>	
+				<li data-transition="slotzoom-vertical" data-slotamount="10" data-masterspeed="1000" >
+					<img src="images/resource/slider.jpg"  alt="slidebg3"  data-bgfit="cover" data-bgposition="left top" data-bgrepeat="no-repeat">
+					<div class="tp-caption lft slide1-line" data-x="0" data-y="180" data-speed="2000" data-start="1000" data-easing="Back.easeOut" data-captionhidden="on" style="width:3px; height:225px;"></div>
+					<div class="tp-caption lft slide1-title" data-x="50" data-y="200" data-speed="2000" data-start="1200" data-easing="Back.easeOut" data-captionhidden="on" style="font-size:50px;">Creative & Awesome</div>
+					<div class="tp-caption lft slide1-title2" data-x="50" data-y="280" data-speed="2000" data-start="1400" data-easing="Back.easeOut" data-captionhidden="on" style="font-size:80px;"><span>DESIGN FOR</span> GYM</div>
+					<div class="tp-caption lft slide1-desc" data-x="50" data-y="360" data-speed="2000" data-start="1600" data-easing="Back.easeOut" data-captionhidden="on" style="font-size:30px;">Digital innovators, at your service</div>
+					<a class="tp-caption sfb slide1-link" data-x="50" data-y="430" data-speed="2000" data-start="2000" data-easing="Back.easeOut" data-captionhidden="on" style="font-size:14px; padding:8px 50px" href="#" title="">Let’s Start an Awesome Project</a>
+				</li><!-- Slide 1-->
+
+				<li data-transition="zoomin" data-slotamount="10" data-masterspeed="1000" >
+					<img src="images/resource/slider2.jpg"  alt="slidebg3"  data-bgfit="cover" data-bgposition="left top" data-bgrepeat="no-repeat">
+					<div class="tp-caption sfl slide2-title" data-x="0" data-y="200" data-speed="1000" data-start="1200" data-easing="Back.easeOut" data-captionhidden="on" style="font-size:40px;">We Follow A Simple Process</div>
+					<div class="tp-caption sfr slide2-title2" data-x="0" data-y="260" data-speed="1000" data-start="1200" data-easing="Back.easeOut" data-captionhidden="on" style="font-size:70px; line-height:70px; padding:20px 30px;"><span>Creative</span> Ideas</div>
+					<div class="tp-caption sfl slide2-desc" data-x="0" data-y="400" data-speed="1000" data-start="1600" data-easing="Back.easeOut" data-captionhidden="on" style="font-size:22px;">Build an amazing and professional website with <span>CHAMP</span></div>					
+
+				</li><!-- Slide 2-->
+
+			</ul>
+		</div>	
+	</div><!-- REVOLUTION SLIDER -->	
+</div>
+
+<section id="service">
+	<div class="block">
+		<div class="container">
+			<div class="row">
+				<div class="col-md-12">
+					<div class="service-intro">
+						<div class="builder-img">
+							<img src="images/builder.png" alt="" />
+						</div>
+						<div class="short-desc">
+							<h3>Our Services</h3>
+							<p>A wonderful sereny has taken possession of soul, like these sweet mornings of idma aute rure dolor in reprehendet</p>
+							<a href="#" title="">READ MORE</a>
+						</div>
+						<span class="white-border left"></span>
+						<span class="white-border right"></span>
+					</div><!-- Service Introduction -->
+					<div class="service-boxes">
+						<div class="remove-ext">
+							<div class="row">
+								<div class="col-md-3">
+									<div class="service-box">
+										<div class="service-inner">
+											<img src="images/resource/service1.jpg" alt="" />
+										</div>
+										<div class="intro">
+											<i class="service-icon flaticon-guru1"></i>
+											<i class="service-icon hover flaticon-guru1"></i>
+											<h3>GURU</h3>
+										</div>
+									</div><!-- Service Box -->
+								</div>
+								<div class="col-md-3">
+									<div class="service-box">
+										<div class="service-inner">
+											<img src="images/resource/service2.jpg" alt="" />
+										</div>
+										<div class="intro">
+											<i class="service-icon flaticon-barbell"></i>
+											<i class="service-icon hover flaticon-barbell"></i>
+											<h3>BARBELL</h3>
+										</div>										
+									</div><!-- Service Box -->
+								</div>
+								<div class="col-md-3">
+									<div class="service-box">
+										<div class="service-inner">
+											<img src="images/resource/service3.jpg" alt="" />
+										</div>	
+										<div class="intro">
+											<i class="service-icon flaticon-biceps"></i>
+											<i class="service-icon hover flaticon-biceps"></i>
+											<h3>BICEPS</h3>
+										</div>
+									</div><!-- Service Box -->
+								</div>
+								<div class="col-md-3">
+									<div class="service-box">
+										<div class="service-inner">
+											<img src="images/resource/service4.jpg" alt="" />
+										</div>
+										<div class="intro">
+											<i class="service-icon flaticon-mountain24"></i>
+											<i class="service-icon hover flaticon-mountain24"></i>
+											<h3>MOUNTAIN</h3>
+										</div>										
+									</div><!-- Service Box -->
+								</div>
+							</div>
+						</div>
+					</div><!-- Service Boxes -->
+				</div>
+			</div>
+		</div>
+	</div>
+</section>
+
+
+<section id="team">
+	<div class="block remove-gap">
+		<div class="container">
+			<div class="row">
+				<div class="col-md-12">
+					<div class="title">
+						<h2>WORLD BEST <span>TRAINERS</span></h2>
+						<span>Lorem ipsum dolor emit, consecturuer</span>
+					</div>
+
+					<div class="team">
+						<div class="remove-ext">
+							<div class="team-carousel">
+								<div class="member">
+									<div class="member-image">
+										<img src="images/resource/team1.jpg" alt="" />
+										<p>A wonderful sereny has taken possession of my entire soul, like these sweet morningsof spring. Morbi  tincidunt congue venenatis. Fusce at vestibulum nisl, et congue nisi. Vestibulum sollicitudin tellus.</p>
+									</div><!-- Member Image -->
+									<div class="social-links">
+										<ul>
+											<li><a href="#" title=""><i class="fa fa-facebook"></i></a></li>
+											<li><a href="#" title=""><i class="fa fa-twitter"></i></a></li>
+											<li><a href="#" title=""><i class="fa fa-pinterest"></i></a></li>
+										</ul>
+									</div>
+									<span>Pilates Trainers</span>
+									<h3>Jack Talabot</h3>
+								</div><!-- Member -->
+								<div class="member">
+									<div class="member-image">
+										<img src="images/resource/team2.jpg" alt="" />
+										<p>A wonderful sereny has taken possession of my entire soul, like these sweet morningsof spring. Morbi  tincidunt congue venenatis. Fusce at vestibulum nisl, et congue nisi. Vestibulum sollicitudin tellus.</p>
+									</div><!-- Member Image -->
+									<div class="social-links">
+										<ul>
+											<li><a href="#" title=""><i class="fa fa-facebook"></i></a></li>
+											<li><a href="#" title=""><i class="fa fa-twitter"></i></a></li>
+											<li><a href="#" title=""><i class="fa fa-pinterest"></i></a></li>
+										</ul>
+									</div>
+									<span>Weight Trainer</span>
+									<h3>Allice Smithson</h3>
+								</div><!-- Member -->
+								<div class="member">
+									<div class="member-image">
+										<img src="images/resource/team3.jpg" alt="" />
+										<p>A wonderful sereny has taken possession of my entire soul, like these sweet morningsof spring. Morbi  tincidunt congue venenatis. Fusce at vestibulum nisl, et congue nisi. Vestibulum sollicitudin tellus.</p>
+									</div><!-- Member Image -->
+									<div class="social-links">
+										<ul>
+											<li><a href="#" title=""><i class="fa fa-facebook"></i></a></li>
+											<li><a href="#" title=""><i class="fa fa-twitter"></i></a></li>
+											<li><a href="#" title=""><i class="fa fa-pinterest"></i></a></li>
+										</ul>
+									</div>
+									<span>Personal Trainer </span>
+									<h3>Sheezell Jack</h3>
+								</div><!-- Member -->
+								<div class="member">
+									<div class="member-image">
+										<img src="images/resource/team4.jpg" alt="" />
+										<p>A wonderful sereny has taken possession of my entire soul, like these sweet morningsof spring. Morbi  tincidunt congue venenatis. Fusce at vestibulum nisl, et congue nisi. Vestibulum sollicitudin tellus.</p>
+									</div><!-- Member Image -->
+									<div class="social-links">
+										<ul>
+											<li><a href="#" title=""><i class="fa fa-facebook"></i></a></li>
+											<li><a href="#" title=""><i class="fa fa-twitter"></i></a></li>
+											<li><a href="#" title=""><i class="fa fa-pinterest"></i></a></li>
+										</ul>
+									</div>
+									<span>Pilates Trainers</span>
+									<h3>Jack Talabot</h3>
+								</div><!-- Member -->
+								<div class="member">
+									<div class="member-image">
+										<img src="images/resource/team5.jpg" alt="" />
+										<p>A wonderful sereny has taken possession of my entire soul, like these sweet morningsof spring. Morbi  tincidunt congue venenatis. Fusce at vestibulum nisl, et congue nisi. Vestibulum sollicitudin tellus.</p>
+									</div><!-- Member Image -->
+									<div class="social-links">
+										<ul>
+											<li><a href="#" title=""><i class="fa fa-facebook"></i></a></li>
+											<li><a href="#" title=""><i class="fa fa-twitter"></i></a></li>
+											<li><a href="#" title=""><i class="fa fa-pinterest"></i></a></li>
+										</ul>
+									</div>
+									<span>Weight Trainer</span>
+									<h3>Allice Smithson</h3>
+								</div><!-- Member -->
+							</div>
+						</div>
+					</div><!-- Team -->
+				</div>
+			</div>
+		</div>
+	</div>
+</section>
+
+
+<section id="membership">
+	<div class="block blackish">
+		<div style="background:url(images/parallax1.jpg);" class="parallax"></div>
+		<div class="container">
+			<div class="row">
+				<div class="col-md-12">
+					<div class="parallax-text">
+						<h2>Healthy Mind, <span>Healthy Body</span></h2>
+						<i>“Give your life some new energy.”</i>
+						<p>You have the opportunity today to learn, to grow, to achieve and to experience new things. To do so youthe courage to let go of some old, comfortable, predictable things. A wonderful sereny has taken possessoul, like these sweet mornings of spring. Duis aute rure dolor in reprehndet in voluptate velit esse cillu. A wonderful sereny has taken possession of my entire soul.</p>
+						<a data-toggle="modal" data-target="#myModal" title="">GET MEMBERSHIP NOW</a><!--  Button -->
+					</div><!-- Parallax Text -->
+				</div>
+			</div>
+		</div>
+	</div>
+</section>
+
+<section id="classes">
+	<div class="block">
+		<div class="container">
+			<div class="row">
+				<div class="title">
+					<h2>OUR BEST <span>CLASSES</span></h2>
+					<span>Lorem ipsum dolor emit, consecturuer</span>
+				</div>
+				<div class="col-md-4 column">
+					<div class="classes-carousel">
+						<div class="best-class">
+							<img src="images/resource/class1.jpg" alt="" />
+							<div class="class-title">
+								<div class="class-name">
+									<i>8AM - 12PM</i>
+									<h3>Muscular Stngth Fitness</h3>
+								</div>
+								<span class="date"><strong>07</strong><i>Oct</i><i>2014</i></span>
+							</div>
+						</div><!-- Best Class -->
+						<div class="best-class">
+							<img src="images/resource/class2.jpg" alt="" />
+							<div class="class-title">
+								<div class="class-name">
+									<i>8AM - 12PM</i>
+									<h3>Muscular Stngth Fitness</h3>
+								</div>
+								<span class="date"><strong>07</strong><i>Oct</i><i>2014</i></span>
+							</div>
+						</div><!-- Best Class -->
+						<div class="best-class">
+							<img src="images/resource/class3.jpg" alt="" />
+							<div class="class-title">
+								<div class="class-name">
+									<i>8AM - 12PM</i>
+									<h3>Muscular Stngth Fitness</h3>
+								</div>
+								<span class="date"><strong>07</strong><i>Oct</i><i>2014</i></span>
+							</div>
+						</div><!-- Best Class -->
+					</div><!-- Classes Carousel -->
+				</div>
+
+				<div class="col-md-5 column">
+					<div class="courses">
+						<div class="course-wrapper">
+							<div class="course">	
+								<div class="course-img">
+									<img src="images/resource/course1.jpg" alt="" />
+								</div>
+								<div class="course-desc">
+									<span><strong>$ 20</strong><i>30 Days</i></span>
+									<div class="course-detail">
+										<h3><a href="#" title="">DANCE COURSES</a></h3>
+										<p>A betrer way to track workouts.</p>
+									</div>
+								</div>
+							</div>
+						</div><!-- Course -->
+						<div class="course-wrapper">
+							<div class="course">	
+								<div class="course-img">
+									<img src="images/resource/course2.jpg" alt="" />
+								</div>
+								<div class="course-desc">
+									<span><strong>$ 30</strong><i>30 Days</i></span>
+									<div class="course-detail">
+										<h3><a href="#" title="">YOGA COURSES</a></h3>
+										<p>A betrer way to track workouts.</p>
+									</div>
+								</div>
+							</div>
+						</div><!-- Course -->
+						<div class="course-wrapper">
+							<div class="course">	
+								<div class="course-img">
+									<img src="images/resource/course3.jpg" alt="" />
+								</div>
+								<div class="course-desc">
+									<span><strong>$ 24</strong><i>30 Days</i></span>
+									<div class="course-detail">
+										<h3><a href="#" title="">FITNESS COURSES</a></h3>
+										<p>A betrer way to track workouts.</p>
+									</div>
+								</div>
+							</div>
+						</div><!-- Course -->
+
+					</div><!-- Courses -->
+				</div>
+
+				<div class="col-md-3 column">
+					<div class="timings">	
+						<div class="timing-title">
+							<h3>CLASSES TIMING</h3>
+							<span>A wonderful scenery has taken</span>
+						</div>
+						<ul>
+							<li>
+								<strong>8<span>AM</span> - 12<span>AM</span></strong>
+								<i>Saturday - Wednesday</i>
+							</li>
+							<li>
+								<strong>5<span>PM</span> - 9<span>PM</span></strong>
+								<i>Thursday - Saturday</i>
+							</li>
+							<li>
+								<strong>8<span>AM</span> - 11<span>PM</span></strong>
+								<i>Sunday</i>
+							</li>
+						</ul>
+						<a data-toggle="modal" data-target="#myModal" title="">APPLY NOW</a><!-- Apply Now Button -->
+					</div><!-- Timings -->
+				</div>
+			</div>
+		</div>
+	</div>
+</section>
+
+<div class="modal fade" id="myModal" tabindex="-1" role="dialog" aria-hidden="true">
+	<div class="container">
+		<form class="membership-form">
+			<h3>GET MEMBERSHIP NOW</h3>
+			<p>You have the opportunity today to learn, to grow, to achieve and to experience new things. To do so <br/> youthe courage to let go of some old, comfortable, predictable things</p>
+			<div class="row">
+				<div class="col-md-4">
+					<label>First Name</label>
+					<input type="text" />
+				</div>
+				<div class="col-md-4">
+					<label>Last Name</label>
+					<input type="text" />
+				</div>
+				<div class="col-md-4">
+					<label>Todays Date</label>
+					<input type="text" />
+				</div>
+				<div class="col-md-4">
+					<div class="check-field">
+						<label>Sex</label>
+						<input type="radio" name="gender"> <p>Male</p>
+						<input type="radio" name="gender"> <p>Female</p>
+					</div>
+				</div>
+				<div class="col-md-4">
+					<label>Date Of Birth</label>
+					<input type="text" />
+				</div>
+			</div>
+			<h4>MEMBER SHIP TYPE</h4>
+			<ul>
+				<li><input type="radio" name="type"> <p>$30/month membership (membership w/ personal training)</p></li>
+				<li><input type="radio" name="type"> <p>$42/month membership (long term commitment)</p></li>
+				<li><input type="radio" name="type"> <p>$52/month membership (short term - month to month)</p></li>
+				<li><input type="radio" name="type"> <p>$72/month membership (couples membership – no commitment needed)</p></li>
+				<li><input type="radio" name="type"> <p>$82/month membership (includes unlimited classes – no commitment needed)</p></li>
+			</ul>
+			<div class="row">
+				<div class="col-md-3">
+					<label>City</label>
+					<input type="text" />
+				</div>
+				<div class="col-md-3">
+					<label>State</label>
+					<input type="text" />
+				</div>
+				<div class="col-md-3">
+					<label>Zip Code</label>
+					<input type="text" />
+				</div>
+				<div class="col-md-3">
+					<label>Telephone</label>
+					<input type="text" />
+				</div>
+
+				<div class="col-md-12">
+					<div class="check-field">
+						<input type="radio" name="condition"> <p>I have read and agree with all of the above and understand that the above applies to all Champ Gym & Fitness Center.</p>
+					</div>
+				</div>
+			</div>
+			<button type="submit">GET MEMBERSHIP NOW</button><!-- Submit -->
+		</form><!-- Membership Form -->
+	</div>
+</div><!-- Popup Form -->
+
+<section id="calculators">
+	<div class="block blackish">
+		<div style="background:url(images/parallax2.jpg);" class="parallax"></div>
+		<div class="container">
+			<div class="row">
+				<div class="col-md-offset-1 col-md-4 column">
+					<div class="calculators-set">
+						<form class="calculator coloured">
+							<h3>Calculate Your Ideal Body Weight</h3>
+							<div class="row">
+								<div class="col-md-6">
+									<label>Weight</label>
+									<input type="text" />
+								</div>
+								<div class="col-md-6">
+									<label>Height</label>
+									<input type="text" />
+								</div>
+								<div class="col-md-6">
+									<label>Age</label>
+									<input type="text" />
+								</div>
+								<div class="col-md-6">
+									<label>Gender</label>
+									<input type="text" />
+								</div>
+								<div class="col-md-12">
+									<a href="#" title="">CALCULATE</a>
+								</div>
+							</div>
+						</form><!-- Coloured Calculator -->
+						<form class="calculator">
+							<h3>Body Shape Calculator</h3>
+							<div class="row">
+								<div class="col-md-12">
+									<label>Name</label>
+									<input type="text" />
+								</div>
+								<div class="col-md-4">
+									<label>Bust</label>
+									<input type="text" />
+								</div>
+								<div class="col-md-4">
+									<label>Waist</label>
+									<input type="text" />
+								</div>
+								<div class="col-md-4">
+									<label>Hips</label>
+									<input type="text" />
+								</div>
+								<div class="col-md-12">
+									<a href="#" title="">APPLY NOW</a>
+								</div>
+							</div>
+						</form><!-- Simple Calculator -->
+					</div><!-- Calculators Set -->
+				</div>
+				<div class="col-md-6 column">
+					<div class="features">
+						<h3>HOW TO TAKE YOUR, <span>MEASURMENTS</span></h3>
+						<p>Praesent vestibulum molestie lacus. Aenean nonummy hend rerit mauris. Phasellus porta. Fusce suscipit varius mier. Aenean nonummy hendrerit mauris.</p>
+
+						<div class="feature">
+							<span><img src="images/resource/feature1.jpg" alt=""></span>
+							<div class="feature-title">
+								<img src="images/icon1.png" alt="" />
+								<h3>Build Your Six Packs</h3>
+							</div>
+							<p>Praesent vestibulum molestie lacus. Aenean nonummy hendrerit mauris. Phasellus porta. Fusce suscipit varius mier.</p>
+						</div><!-- Feature -->
+
+						<div class="feature">
+							<span><img src="images/resource/feature2.jpg" alt=""></span>
+							<div class="feature-title">
+								<img src="images/icon2.png" alt="" />
+								<h3>How To Loose Fat?</h3>
+							</div>
+							<p>Praesent vestibulum molestie lacus. Aenean nonummy hendrerit mauris. Phasellus porta. Fusce suscipit varius mier.</p>
+						</div><!-- Feature -->
+
+					</div><!-- Features -->
+				</div>
+			</div>
+		</div>
+	</div>
+</section>
+
+
+<section id="gallery">
+	<div class="block">
+		<div class="container">
+			<div class="row">
+				<div class="col-md-12">
+					<div class="title">
+						<h2>OUR PHOTO <span>SESSION	</span></h2>
+						<span>Lorem ipsum dolor emit, consecturuer</span>
+					</div>
+					<div class="gallery">
+						<div class="gallery-item">
+							<div class="gallery-img">
+								<img src="images/resource/gallery1.jpg" alt="" />
+								<div class="gallery-hover">
+									<div class="gallery-detail">
+										<h4>Antonio Hurtado De Mendoza</h4>
+										<a href="images/resource/gallery1.jpg" data-rel="prettyPhoto[gallery1]" title=""><img src="images/enlarge.png" alt="" /></a>
+										<span>25 Oct 2014</span>
+									</div>
+								</div><!-- Gallery Hover -->
+							</div><!-- Gallery Image -->
+						</div>
+
+						<div class="gallery-item">
+							<div class="gallery-img">
+								<img src="images/resource/gallery2.jpg" alt="" />
+								<div class="gallery-hover">
+									<div class="gallery-detail">
+										<h4>Antonio Hurtado De Mendoza</h4>
+										<a href="images/resource/gallery2.jpg" data-rel="prettyPhoto[gallery1]" title=""><img src="images/enlarge.png" alt="" /></a>
+										<span>25 Oct 2014</span>
+									</div>
+								</div><!-- Gallery Hover -->
+							</div><!-- Gallery Image -->
+							<div class="gallery-img">
+								<img src="images/resource/gallery3.jpg" alt="" />
+								<div class="gallery-hover">
+									<div class="gallery-detail">
+										<h4>Antonio Hurtado De Mendoza</h4>
+										<a href="images/resource/gallery3.jpg" data-rel="prettyPhoto[gallery1]" title=""><img src="images/enlarge.png" alt="" /></a>
+										<span>25 Oct 2014</span>
+									</div>
+								</div><!-- Gallery Hover -->
+							</div><!-- Gallery Image -->
+						</div>
+
+						<div class="gallery-item">
+							<div class="gallery-img">
+								<img src="images/resource/gallery4.jpg" alt="" />
+								<div class="gallery-hover">
+									<div class="gallery-detail">
+										<h4>Antonio Hurtado De Mendoza</h4>
+										<a href="images/resource/gallery4.jpg" data-rel="prettyPhoto[gallery1]" title=""><img src="images/enlarge.png" alt="" /></a>
+										<span>25 Oct 2014</span>
+									</div>
+								</div><!-- Gallery Hover -->
+							</div><!-- Gallery Image -->
+						</div>
+
+						<div class="gallery-item">
+							<div class="gallery-img">
+								<img src="images/resource/gallery5.jpg" alt="" />
+								<div class="gallery-hover">
+									<div class="gallery-detail">
+										<h4>Antonio Hurtado De Mendoza</h4>
+										<a href="images/resource/gallery5.jpg" data-rel="prettyPhoto[gallery1]" title=""><img src="images/enlarge.png" alt="" /></a>
+										<span>25 Oct 2014</span>
+									</div>
+								</div><!-- Gallery Hover -->
+							</div><!-- Gallery Image -->
+							<div class="gallery-img">
+								<img src="images/resource/gallery6.jpg" alt="" />
+								<div class="gallery-hover">
+									<div class="gallery-detail">
+										<h4>Antonio Hurtado De Mendoza</h4>
+										<a href="images/resource/gallery6.jpg" data-rel="prettyPhoto[gallery1]" title=""><img src="images/enlarge.png" alt="" /></a>
+										<span>25 Oct 2014</span>
+									</div>
+								</div><!-- Gallery Hover -->
+							</div><!-- Gallery Image -->
+						</div>
+
+						<div class="gallery-item">
+							<div class="gallery-img">
+								<img src="images/resource/gallery7.jpg" alt="" />
+								<div class="gallery-hover">
+									<div class="gallery-detail">
+										<h4>Antonio Hurtado De Mendoza</h4>
+										<a href="images/resource/gallery7.jpg" data-rel="prettyPhoto[gallery1]" title=""><img src="images/enlarge.png" alt="" /></a>
+										<span>25 Oct 2014</span>
+									</div>
+								</div><!-- Gallery Hover -->
+							</div><!-- Gallery Image -->
+						</div>
+					</div><!-- Gallery -->
+					<div class="blog-link">
+						<a href="gallery.html" title="">GALLERY PAGE 1</a>
+						<a href="gallery2.html" title="">GALLERY PAGE 2</a>
+					</div>
+				</div>
+			</div>
+		</div>
+	</div>
+</section>
+
+<section id="factors">
+	<div class="block blackish">
+		<div style="background:url(images/parallax3.jpg);" class="parallax"></div>
+		<div class="container">
+			<div class="row">
+				<div class="col-md-12">
+					<div class="title">
+						<h2>FUN FACTOR <span>OF GYM</span></h2>
+						<span>Lorem ipsum dolor emit, consecturuer</span>
+					</div>
+
+					<div class="factors">
+						<div class="row">
+							<div class="col-md-2">
+								<div class="fun-fact coloured">
+									<h4 class="counter">2034</h4>
+									<span>MEMBERS</span>
+								</div><!-- Fun Facts -->
+							</div>
+							<div class="col-md-2">
+								<div class="fun-fact">
+									<h4 class="counter">34</h4>
+									<span>CLASSES</span>
+								</div><!-- Fun Facts -->
+							</div>
+							<div class="col-md-2">
+								<div class="fun-fact coloured">
+									<h4 class="counter">843</h4>
+									<span>TREADMILLS</span>
+								</div><!-- Fun Facts -->
+							</div>
+							<div class="col-md-2">
+								<div class="fun-fact">
+									<h4 class="counter">3134</h4>
+									<span>OPENING HOUR</span>
+								</div><!-- Fun Facts -->
+							</div>
+							<div class="col-md-2">
+								<div class="fun-fact coloured">
+									<h4 class="counter">54</h4>
+									<span>WATER FOUNTAINS</span>
+								</div><!-- Fun Facts -->
+							</div>
+							<div class="col-md-2">
+								<div class="fun-fact">
+									<h4 class="counter">225</h4>
+									<span>TRAINERS</span>
+								</div><!-- Fun Facts -->
+							</div>
+						</div>
+					</div><!-- Factors -->
+				</div>
+			</div>
+		</div>
+	</div>
+</section>
+
+
+<section id="testimonial">
+	<div class="block black remove-gap remove-bottom">
+		<div class="container">
+			<div class="row">
+				<div class="col-md-12">
+					<div class="testimonial-carousel">
+						<div class="testimonial">
+							<div class="row">
+								<div class="col-md-6">
+									<div class="testimonial-image">
+										<img src="images/resource/testimonial1.png" alt="" />
+										<div class="effect">
+											<span>BEFORE</span>
+											<ul>
+												<li><img src="images/resource/before1.jpg" alt="" /><h5>Max Time</h5><span>10 Weeks</span></li>
+												<li><img src="images/resource/before1.jpg" alt="" /><h5>Weight</h5><span>173 Lbs</span></li>
+												<li><img src="images/resource/before1.jpg" alt="" /><h5>BODY FAT</h5><span>7%</span></li>
+											</ul>
+										</div><!-- Before Effect -->
+										<div class="effect after">
+											<span>AFTER</span>
+											<ul>
+												<li><img src="images/resource/before1.jpg" alt="" /><h5>Max Time</h5><span>10 Weeks</span></li>
+												<li><img src="images/resource/before1.jpg" alt="" /><h5>Weight</h5><span>173 Lbs</span></li>
+												<li><img src="images/resource/before1.jpg" alt="" /><h5>BODY FAT</h5><span>7%</span></li>
+											</ul>
+										</div><!-- After Effect -->
+									</div><!-- Testimonial Image -->
+								</div>
+								<div class="col-md-offset-1 col-md-5">
+									<div class="testimonial-detail">
+										<span><i class="fa fa-quote-left"></i><i class="fa fa-quote-right"></i></span>
+										<h3>Will definitely subscribe for more</h3>
+										<p>Praesent vestibulum molestie lacus. Aenean nonumy hendrerit mauris. Phaellus porta. Fusce suscipit varius mier.Lorem Ipsum is simply dummy text of the printing and typesetg industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took.</p>
+										<div class="client-info">
+											<h6>Ellen Selwa</h6>
+											<span>BODY FITNESS</span>
+										</div>
+									</div><!-- Testimonial Details -->
+								</div>
+							</div>
+						</div><!-- Testimonial -->
+						<div class="testimonial">
+							<div class="row">
+								<div class="col-md-6">
+									<div class="testimonial-image">
+										<img src="images/resource/testimonial2.png" alt="" />
+										<div class="effect">
+											<span>BEFORE</span>
+											<ul>
+												<li><img src="images/resource/before1.jpg" alt="" /><h5>Max Time</h5><span>10 Weeks</span></li>
+												<li><img src="images/resource/before1.jpg" alt="" /><h5>Weight</h5><span>173 Lbs</span></li>
+												<li><img src="images/resource/before1.jpg" alt="" /><h5>BODY FAT</h5><span>7%</span></li>
+											</ul>
+										</div><!-- Before Effect -->
+										<div class="effect after">
+											<span>AFTER</span>
+											<ul>
+												<li><img src="images/resource/before1.jpg" alt="" /><h5>Max Time</h5><span>10 Weeks</span></li>
+												<li><img src="images/resource/before1.jpg" alt="" /><h5>Weight</h5><span>173 Lbs</span></li>
+												<li><img src="images/resource/before1.jpg" alt="" /><h5>BODY FAT</h5><span>7%</span></li>
+											</ul>
+										</div><!-- After Effect -->
+									</div><!-- Testimonial Image -->
+								</div>
+								<div class="col-md-offset-1 col-md-5">
+									<div class="testimonial-detail">
+										<span><i class="fa fa-quote-left"></i><i class="fa fa-quote-right"></i></span>
+										<h3>Will definitely subscribe for more</h3>
+										<p>Praesent vestibulum molestie lacus. Aenean nonumy hendrerit mauris. Phaellus porta. Fusce suscipit varius mier.Lorem Ipsum is simply dummy text of the printing and typesetg industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took.</p>
+										<div class="client-info">
+											<h6>Ellen Selwa</h6>
+											<span>BODY FITNESS</span>
+										</div>
+									</div><!-- Testimonial Details -->
+								</div>
+							</div>
+						</div><!-- Testimonial -->
+						<div class="testimonial">
+							<div class="row">
+								<div class="col-md-6">
+									<div class="testimonial-image">
+										<img src="images/resource/testimonial3.png" alt="" />
+										<div class="effect">
+											<span>BEFORE</span>
+											<ul>
+												<li><img src="images/resource/before1.jpg" alt="" /><h5>Max Time</h5><span>10 Weeks</span></li>
+												<li><img src="images/resource/before1.jpg" alt="" /><h5>Weight</h5><span>173 Lbs</span></li>
+												<li><img src="images/resource/before1.jpg" alt="" /><h5>BODY FAT</h5><span>7%</span></li>
+											</ul>
+										</div><!-- Before Effect -->
+										<div class="effect after">
+											<span>AFTER</span>
+											<ul>
+												<li><img src="images/resource/before1.jpg" alt="" /><h5>Max Time</h5><span>10 Weeks</span></li>
+												<li><img src="images/resource/before1.jpg" alt="" /><h5>Weight</h5><span>173 Lbs</span></li>
+												<li><img src="images/resource/before1.jpg" alt="" /><h5>BODY FAT</h5><span>7%</span></li>
+											</ul>
+										</div><!-- After Effect -->
+									</div><!-- Testimonial Image -->
+								</div>
+								<div class="col-md-offset-1 col-md-5">
+									<div class="testimonial-detail">
+										<span><i class="fa fa-quote-left"></i><i class="fa fa-quote-right"></i></span>
+										<h3>Will definitely subscribe for more</h3>
+										<p>Praesent vestibulum molestie lacus. Aenean nonumy hendrerit mauris. Phaellus porta. Fusce suscipit varius mier.Lorem Ipsum is simply dummy text of the printing and typesetg industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took.</p>
+										<div class="client-info">
+											<h6>Ellen Selwa</h6>
+											<span>BODY FITNESS</span>
+										</div>
+									</div><!-- Testimonial Details -->
+								</div>
+							</div>
+						</div><!-- Testimonial -->
+					</div><!-- Testimonial Carousel -->
+				</div>
+			</div>
+		</div>
+	</div>
+</section>
+
+
+<section id="blog">
+	<div class="block">
+		<div class="container">
+			<div class="row">
+				<div class="col-md-12">
+					<div class="title">
+						<h2>RECENT FROM <span>BLOG</span></h2>
+						<span>Lorem ipsum dolor emit, consecturuer</span>
+					</div>
+					<div class="remove-ext">
+						<div class="row">
+							<div class="col-sm-6 col-md-4">
+								<div class="blog">
+									<div class="blog-img">
+										<img src="images/resource/blog1.jpg" alt="" />
+										<a href="blog-single.html" title=""><i class="icon1 fa fa-calendar-o"></i><i class="icon2 fa fa-link"></i></a>
+										<span><strong>07</strong> <i>OCTOBER</i> 2014</span>
+									</div><!-- Blog Image -->
+									<ul>
+										<li>Posted in: <a href="blog-single.html" title="">Hobbies</a>, </li><li><a href="blog-single.html" title="">Street Fitness</a></li>
+									</ul>
+									<h3><a href="blog-single.html" title="">Pregnant Yoga Exercises in 30min</a></h3>
+									<p>A wonderful sereny has taken possession of my entire soul, like these sweet mornings of spring.</p>
+								</div><!-- Blog Post -->
+							</div>
+							<div class="col-sm-6 col-md-4">
+								<div class="blog">
+									<div class="blog-img">
+										<img src="images/resource/blog2.jpg" alt="" />
+										<a href="blog-single.html" title=""><i class="icon1 fa fa-calendar-o"></i><i class="icon2 fa fa-link"></i></a>
+										<span><strong>07</strong> <i>OCTOBER</i> 2014</span>
+									</div><!-- Blog Image -->
+									<ul>
+										<li>Posted in: <a href="blog-single.html" title="">Hobbies</a>, </li><li><a href="blog-single.html" title="">Street Fitness</a></li>
+									</ul>
+									<h3><a href="blog-single.html" title="">Pregnant Yoga Exercises in 30min</a></h3>
+									<p>A wonderful sereny has taken possession of my entire soul, like these sweet mornings of spring.</p>
+								</div><!-- Blog Post -->
+							</div>
+							<div class="col-sm-6 col-md-4">
+								<div class="blog">
+									<div class="blog-img">
+										<img src="images/resource/blog3.jpg" alt="" />
+										<a href="blog-single.html" title=""><i class="icon1 fa fa-calendar-o"></i><i class="icon2 fa fa-link"></i></a>
+										<span><strong>07</strong> <i>OCTOBER</i> 2014</span>
+									</div><!-- Blog Image -->
+									<ul>
+										<li>Posted in: <a href="blog-single.html" title="">Hobbies</a>, </li><li><a href="blog-single.html" title="">Street Fitness</a></li>
+									</ul>
+									<h3><a href="blog-single.html" title="">Pregnant Yoga Exercises in 30min</a></h3>
+									<p>A wonderful sereny has taken possession of my entire soul, like these sweet mornings of spring.</p>
+								</div><!-- Blog Post -->
+							</div>
+
+						</div>
+					</div>
+					<div class="blog-link">
+						<a href="blog.html" title="">VIEW ALL</a>
+					</div>
+				</div>
+			</div>
+		</div>
+	</div>
+</section>
+
+
+<section id="affiliate">
+	<div class="block remove-gap">
+		<div class="container">
+			<div class="row">
+				<div class="col-md-12">
+					<div class="affiliates-carousel">
+						<a href="#" title="" class="affilate">
+							<img src="images/resource/affiliate1.png" alt="" />
+						</a>
+						<a href="#" title="" class="affilate">
+							<img src="images/resource/affiliate2.png" alt="" />
+						</a>
+						<a href="#" title="" class="affilate">
+							<img src="images/resource/affiliate3.png" alt="" />
+						</a>
+						<a href="#" title="" class="affilate">
+							<img src="images/resource/affiliate4.png" alt="" />
+						</a>
+						<a href="#" title="" class="affilate">
+							<img src="images/resource/affiliate5.png" alt="" />
+						</a>
+						<a href="#" title="" class="affilate">
+							<img src="images/resource/affiliate1.png" alt="" />
+						</a>
+					</div>
+				</div>
+			</div>
+		</div>
+	</div>
+</section>
+
+
+<footer id="contact">
+	<div class="block blackish">
+		<div style="background:url(images/parallax4.jpg);" class="parallax"></div>
+		<div class="container">
+			<div class="row">
+				<div class="col-md-4 column">
+					<div class="widget">
+						<div class="map-address">
+							<div class="address">
+								<h5>ADDRESS</h5>
+								<p>London Thames Valley Golf Club(033) 55 444 88 99 (033) 55 444 88 99</p>
+							</div>
+							<div class="map">
+								<iframe src="https://www.google.com/maps?f=q&amp;source=s_q&amp;hl=en&amp;geocode=&amp;q=uk&amp;aq=&amp;sll=18.312811,-4.306641&amp;sspn=46.292419,86.572266&amp;ie=UTF8&amp;hq=&amp;hnear=United+Kingdom&amp;ll=52.352119,-2.647705&amp;spn=0.685471,1.352692&amp;t=p&amp;z=10&amp;output=embed"></iframe>					
+							</div>
+						</div><!-- Map Address -->
+					</div>
+				</div>
+				<div class="col-md-8 column">
+					<div class="widget">
+						<div class="contact">
+							<h5>Contact Us</h5>
+							<p>Phasellus sit amet justo sapien. Praesent bibendum, enim non fringilla vestibulum.We can condimentum est lacus ut dolor. Sed facilisis ante felis,.</p>
+							<div id="message"></div>
+							<form  class="row" method="post" action="contact.php" name="contactform" id="contactform">
+								<div class="col-md-6"><input name="name" type="text" id="name" placeholder="Name" /></div>
+								<div class="col-md-6"><input  name="email" type="text" id="email"  placeholder="Email" /></div>
+								<div class="col-md-12"><input  name="comments" id="comments" type="text" placeholder="Details" /></div>
+								<div class="col-md-12"><input type="submit" id="submit" value="SUBMIT" /></div>
+							</form>
+						</div><!-- Contact Form -->
+					</div>
+				</div>
+			</div>
+		</div>
+	</div>	
+</footer><!-- Footer -->
+<div class="bottom-footer">
+	<div class="container">
+		<p>All rights reserved 2014-<a href="http://themeforest.net/item/champ-gym-fitness-yoga-html-template/9288057?ref=stillidea" title="">BEYOND FITNESS</a> By <a href="http://themeforest.net/user/stillidea/portfolio?WT.ac=item_portfolio&WT.z_author=stillidea" title="">mediabeneficium.com</a></p>
+	</div>
+</div><!-- Bottom Footer -->
+
+
+<!--<div class="sidepanel">
+	<span><i class="fa fa-magic"></i></span>
+	<h4>CHOOSE YOUR COLOR:</h4>
+	<div class="colors">
+		<div><a onclick="setActiveStyleSheet('orange'); return false;" class="orange"></a></div>
+		<div><a onclick="setActiveStyleSheet('brown'); return false;" class="brown"></a></div>
+		<div><a onclick="setActiveStyleSheet('red'); return false;" class="red"></a></div>
+		<div><a onclick="setActiveStyleSheet('blue'); return false;" class="blue"></a></div>
+		<div><a onclick="setActiveStyleSheet('green'); return false;" class="green"></a></div>
+		<div><a onclick="setActiveStyleSheet('pink'); return false;" class="pink"></a></div>
+	</div>
+</div>-->
+
+
+
+
+<script type="text/javascript" src="js/modernizr.custom.97074.js"></script>
+
+<script type="text/javascript" src="js/jquery2.1.1.js"></script>
+<!-- SLIDER REVOLUTION -->
+<script type="text/javascript" src="js/revolution/jquery.themepunch.plugins.min.js"></script>
+<script type="text/javascript" src="js/revolution/jquery.themepunch.revolution.min.js"></script>
+<script type="text/javascript" src="js/bootstrap.min.js"></script>
+<script type="text/javascript" src="js/owl.carousel.min.js"></script>
+<script type="text/javascript" src="js/prettyPhoto.js"></script>
+<script type="text/javascript" src="js/jquery.counterup.min.js"></script>
+<script type="text/javascript" src="js/script.js"></script>
+<script>
+$(window).load(function() {
+	/* =============== Revolution Slider ===================== */
+	var revapi;
+	revapi = jQuery('.tp-banner').revolution(
+		{
+			delay:9000,
+			startwidth:1170,
+			startheight:900,
+			hideThumbs:10,
+			fullWidth:"on",
+			forceFullWidth:"off"
+		});
+
+	/* =============== Affiliates Carousel ===================== */
+	$('.affiliates-carousel').owlCarousel({
+    items: 4,
+    loop: true,
+    smartSpeed : 1000,
+    autoplay: true,
+    nav: true,
+    autoplayTimeout: 3000,
+    margin: 30,
+    autoplayHoverPause: false,
+    responsive:{
+    	0:{items:1},
+    	480:{items:2},
+    	767:{items:3},
+    	1100:{items:5}
+    }
+  });
+
+
+	/* =============== Team Carousel ===================== */
+	$('.team-carousel').owlCarousel({
+    items: 3,
+    loop: true,
+    smartSpeed : 1000,
+    autoplay: true,
+    autoplayTimeout: 3000,
+    margin: 30,
+    autoplayHoverPause: true,
+    responsive:{
+    	0:{items:1},
+    	480:{items:2},
+    	980:{items:3}
+    }
+
+  });
+
+	/* =============== Gallery Carousel ===================== */
+	$('.gallery').owlCarousel({
+    items: 3,
+    loop: true,
+    smartSpeed : 1000,
+    autoplay: true,
+    autoplayTimeout: 3000,
+    margin: 30,
+    responsive:{
+    	0:{items:1},
+    	480:{items:2},
+    	980:{items:3}
+    }
+
+  });
+
+	/* =============== Classes Carousel ===================== */
+  $('.classes-carousel').owlCarousel({
+    items: 1,
+    loop: true,
+    smartSpeed : 1000,
+    autoplay: true,
+    autoplayTimeout: 3000,
+    center: true,
+    margin: 0,
+    autoplayHoverPause: true,
+  });
+
+	/* =============== Testimonial Carousel ===================== */
+  $('.testimonial-carousel').owlCarousel({
+    items: 1,
+    loop: true,
+    smartSpeed : 1000,
+    singleItem: true,
+    autoplay: true,
+    autoplayTimeout: 3000,
+    center: true,
+    margin: 0,
+    autoplayHoverPause: true,
+    animateOut: 'fadeOut',
+	animateIn: 'fadeIn',
+  });
+
+  
+	/* =============== Fun Facts Counter ===================== */
+    $(".counter").counterUp({
+        time: 5000
+    });
+
+
+})
+</script>
+<script type="text/javascript" src="js/styleswitcher.js"></script>
+
+</body>
